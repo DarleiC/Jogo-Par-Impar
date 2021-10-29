@@ -47,11 +47,3 @@ while True:
         #print('Score: MÁQUINA= ' + str(c) + ' HUMANO= ' + str(p))
         print(' ')  
 print(' ')
-#('Escolha PAR ou IMPAR: ')
-#faz a máquina escolher PAR ou IMPAR
-#    ou o jogador escolhe PAR ou IMPAR
-#máquina randomiza um número entre 0 E 100
-#recebe o número do jogador
-#soma os dois números
-#calcula se é PAR ou IMPAR
-#mostra na tela quem ganhou
